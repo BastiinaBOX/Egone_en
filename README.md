@@ -14,7 +14,7 @@
 # Egone
 Robopet Bot
 
-![Egone](/pic/IMG_9603.png)
+![Egone]([pic/DSC01908_kopie.jpg])
 
 
 ---
