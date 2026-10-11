@@ -14,6 +14,10 @@
 # Egone
 Robopet Bot
 
+Link for the parametric svg Files. 
+[Link to the Onshape files](https://cad.onshape.com/documents/ee00ceb675a21f532eced44f/w/7ee913cb8241ee06ffddf370/e/1a35bd747bdbf0cea1015997?renderMode=0&uiState=6acb59f1c5485c250e4760fd)
+
+
 ![Egone]([/pic/DSC01908_kopie.jpg])
 
 
